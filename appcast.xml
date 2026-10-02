@@ -101,5 +101,17 @@
         length="44017483"
         type="application/octet-stream" />
     </item>
+    <item>
+      <title>InspoFlow 1.0.8</title>
+      <pubDate>Fri, 02 Oct 2026 01:35:50 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/hiyuno/inspoflow_updates/releases/download/v1.0.8/InspoFlow-1.0.8.dmg"
+        sparkle:edSignature="VDC4Ytz5v0DPHtsb0Clu1ugXBAnnJHIBZScWo6bb0XGSeFaspCGGjAz06+28+3seQs/4oXB/eKybi7JiGmPoCw=="
+        length="43999625"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
